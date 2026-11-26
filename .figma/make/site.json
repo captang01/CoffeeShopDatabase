@@ -1,0 +1,10 @@
+{
+  "description": "A coffee shop management app for organizing menus, inventory, orders, and customer data to help café owners run daily operations efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
